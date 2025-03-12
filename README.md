@@ -62,6 +62,9 @@ Contains information about the episodes in the series. The headers include:
 
 A Power BI file that likely contains visualizations and analyses of the data.
 
+## Screenshot
+![Screenshot](https://github.com/saif131/Breaking-Bad-Better-Call-Saul/blob/main/Screenshot%20(286).png)
+
 ## Usage
 
 You can use this data for various analyses, visualizations, or to create interesting insights about the series. The `Breaking bad and better call saul.pbix` file can be opened with Power BI to explore pre-built visualizations.
